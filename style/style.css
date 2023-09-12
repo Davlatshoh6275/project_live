@@ -103,6 +103,10 @@
   font-weight: 500;
 }
 
+.conteiner .nav_box .menu {
+  display: none;
+}
+
 /*  */
 
 /* join */
